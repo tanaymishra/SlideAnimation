@@ -18,5 +18,5 @@ Javascript should be enable in your browser
   
 ## Authors
 
-- [@tanaymishra](https://www.github.com/tanaymishra)
+- [@tanaymishra](https://www.github.io/tanaymishra)
 
